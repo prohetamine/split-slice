@@ -1,4 +1,4 @@
-# split-slice
+# 🍰 split-slice
 
 /* There will be normal documentation. Someday.. */
 

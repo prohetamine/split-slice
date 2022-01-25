@@ -1,7 +1,7 @@
 {
   "name": "split-slice",
-  "version": "0.0.1",
-  "description": "Cut the string to a certain length, use hyphenation or space, align center/left/right.",
+  "version": "0.0.2",
+  "description": "🍰 Cut the string to a certain length, use hyphenation or space, align center/left/right.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
