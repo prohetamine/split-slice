@@ -1,0 +1,33 @@
+{
+  "name": "split-slice",
+  "version": "0.0.1",
+  "description": "Cut the string to a certain length, use hyphenation or space, align center/left/right.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prohetamine/split-slice"
+  },
+  "keywords": [
+    "split",
+    "slice",
+    "text",
+    "cut-length",
+    "cut-string",
+    "split-slice",
+    "browser",
+    "node",
+    "console",
+    "text-align",
+    "align"
+  ],
+  "author": "Stas Prohetamine",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}
